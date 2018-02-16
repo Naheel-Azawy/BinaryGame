@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>com.naheel.BinaryGame.desktop</id>
+	<licence>CC0</licence>
+	<project_license>GPL-3.0+</project_license>
+	<name>Binary Game</name>
+	<summary>Simple game built for GNOME</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Game window</caption>
+      <image width="346" height="245">https://github.com/Naheel-Azawy/BinaryGame/blob/master/screenshots/s2.png?raw=true</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Level window</caption>
+      <image width="408" height="334">https://github.com/Naheel-Azawy/BinaryGame/blob/master/screenshots/s1.png?raw=true</image>
+    </screenshot>
+  </screenshots>
+	<description>
+	</description>
+</component>

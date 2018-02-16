@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema id="com.naheel.BinaryGame" path="/com/naheel/BinaryGame/" gettext-domain="binarygame">
+		<key name="is_light" type="b">
+			<default>false</default>
+			<summary>Is the light theme</summary>
+			<description>
+				Is the light theme
+			</description>
+		</key>
+	</schema>
+</schemalist>

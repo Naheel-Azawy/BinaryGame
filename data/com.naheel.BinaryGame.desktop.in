@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Binary Game
+Exec=binarygame
+Icon=com.naheel.BinaryGame
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Game;
+StartupNotify=true

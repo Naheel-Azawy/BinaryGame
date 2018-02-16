@@ -1,0 +1,9 @@
+data/com.naheel.BinaryGame.desktop.in
+data/com.naheel.BinaryGame.appdata.xml.in
+data/com.naheel.BinaryGame.gschema.xml
+src/window.ui
+
+src/main.vala
+src/window.vala
+
+
